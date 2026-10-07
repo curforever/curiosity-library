@@ -1,0 +1,11 @@
+# 只发布作品，不提交本地草稿、缓存或编辑器资料。
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+drafts/
+.env
+.env.*
+*.tmp
+*.bak
